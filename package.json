@@ -1,0 +1,24 @@
+{
+  "name": "@olivierbelaud/bulma",
+  "version": "1.0.0",
+  "description": "A module for bulma scss integration in Nuxt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlivierBelaud/bulma.git"
+  },
+  "keywords": [
+    "bulma",
+    "nuxtjs",
+    "scss"
+  ],
+  "author": "OlivierBelaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OlivierBelaud/bulma/issues"
+  },
+  "homepage": "https://github.com/OlivierBelaud/bulma#readme"
+}
