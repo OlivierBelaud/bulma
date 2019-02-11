@@ -1,6 +1,6 @@
 {
   "name": "@olivierbelaud/bulma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for bulma scss integration in Nuxt",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/OlivierBelaud/bulma#readme",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.1",
     "bulma": "^0.7.4"
   }
 }
