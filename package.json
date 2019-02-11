@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/OlivierBelaud/bulma/issues"
   },
-  "homepage": "https://github.com/OlivierBelaud/bulma#readme"
+  "homepage": "https://github.com/OlivierBelaud/bulma#readme",
+  "dependencies": {
+    "bulma": "^0.7.4"
+  }
 }
